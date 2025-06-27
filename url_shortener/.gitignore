@@ -1,0 +1,23 @@
+# Arquivos de Segredos e Variáveis de Ambiente Locais
+# O MAIS IMPORTANTE!
+.env
+
+# Ambiente Virtual do Python
+venv/
+.venv/
+env/
+.env/
+
+# Arquivos de cache e compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração de IDEs e Editores
+.vscode/
+.idea/
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
